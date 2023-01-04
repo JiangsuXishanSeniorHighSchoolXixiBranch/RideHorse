@@ -1,2 +1,2 @@
 # RideHorse
-A mc mod which add whip.
+A mc mod which adds whip.
